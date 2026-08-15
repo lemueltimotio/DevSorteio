@@ -95,7 +95,7 @@ O projeto também está publicado utilizando o **GitHub Pages**.
 Acesse:
 
 ```text id="pm3e7v"
-https://lemueltimotio.github.io/Projeto-DevSorteio/
+https://lemueltimotio.github.io/DevSorteio/
 ```
 
 ## Autor
