@@ -83,7 +83,7 @@ Projeto-DevSorteio/
 Clone o repositório:
 
 ```bash id="pr0x6v"
-git clone https://github.com/lemueltimotio/Projeto-DevSorteio.git
+git clone https://github.com/lemueltimotio/DevSorteio.git
 ```
 
 Depois abra o arquivo `index.html` no navegador.
