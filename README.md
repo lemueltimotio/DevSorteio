@@ -53,7 +53,7 @@ O projeto foi desenvolvido durante meus estudos no **DevClub**, com o objetivo d
 ### Resultado do sorteio
 
 <p align="center">
-  <img src="./captura2.png" width="800px" alt="Resultado do sorteio no DevSorteio">
+  <img src="./captura2.png" width="400px" alt="Resultado do sorteio no DevSorteio">
 </p>
 
 ## Como funciona
